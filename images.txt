@@ -1,1 +1,2 @@
 mysql:latest
+redis:latest
